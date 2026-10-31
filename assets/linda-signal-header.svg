@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="60" y1="0" x2="1080" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#173D32"/><stop offset=".62" stop-color="#255B45"/><stop offset="1" stop-color="#2D7553"/></linearGradient>
+    <linearGradient id="signal" x1="710" y1="220" x2="1160" y2="80" gradientUnits="userSpaceOnUse"><stop stop-color="#D7EA94" stop-opacity=".08"/><stop offset="1" stop-color="#E5F0E0" stop-opacity=".7"/></linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="#F4F4EA"/><rect x="9" y="9" width="1182" height="302" rx="22" fill="url(#bg)"/>
+  <g opacity=".16" stroke="#E5F0E0"><circle cx="1010" cy="158" r="108"/><circle cx="1010" cy="158" r="145"/><circle cx="1010" cy="158" r="181"/></g>
+  <path d="M734 227c80-70 128-90 202-42 68 44 128 46 230-62" stroke="url(#signal)" stroke-width="2" stroke-dasharray="5 9"/><circle cx="936" cy="185" r="7" fill="#D7EA94"/><circle cx="1166" cy="123" r="4" fill="#E5F0E0"/>
+  <rect x="74" y="80" width="46" height="46" rx="14" fill="#FFFFFF" fill-opacity=".1" stroke="#fff" stroke-opacity=".22"/><path d="M88 92v22h18" stroke="#F4F4EA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="109" cy="91" r="3" fill="#D7EA94"/>
+  <g font-family="Inter, Avenir Next, Arial, sans-serif" fill="#FAFBF5"><text x="140" y="107" font-size="14" letter-spacing="4" fill="#C8DDC9">LINDA UTZ · HR · PEOPLE & TECHNOLOGY</text><text x="74" y="196" font-size="58" font-weight="700" letter-spacing="-3">Thoughtful work,</text><text x="74" y="258" font-size="58" font-weight="700" letter-spacing="-3" fill="#D7EA94">for people.</text></g>
+</svg>

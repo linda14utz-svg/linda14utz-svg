@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <img src="assets/linda-signal-header.svg" alt="Linda Utz · People, HR & Technology" width="100%" />
+</div>
 
-<!--
-**linda14utz-svg/linda14utz-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hallo, ich bin Linda
 
-Here are some ideas to get you started:
+Ich arbeite im HR und über den gesamten Web-Stack hinweg: von Frontend und Nutzererlebnis bis zu Backend und APIs. Mich interessiert, wie Menschen, Gesundheit, Psychologie und Technologie im Arbeitsalltag sinnvoll zusammenspielen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Schwerpunkte:** HR & People · Gesundheit und Psychologie · Web · TypeScript · KI-Tools und Integrationen
+
+Ich mag direkte Kommunikation, gut lesbare Lösungen und Interfaces, die Komplexität verständlich machen. Bei Designentscheidungen zählt mein eigener Geschmack; Designsysteme und Skills sind Inspiration und gute Ergänzung.
+
+<p align="center"><sub>Building with care — for people, from the first interaction to the API behind it.</sub></p>

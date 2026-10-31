@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/linda-signal-header.svg" alt="Linda Utz · People, HR & Technology" width="100%" />
+  <img src="assets/linda-signal-header.png" alt="Linda Utz · People, HR & Technology" width="100%" />
 </div>
 
 ## Hallo, ich bin Linda
